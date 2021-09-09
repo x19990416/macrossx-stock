@@ -1,2 +1,19 @@
-# Macrossx Stock Public
+# macrossx-stock
 
+macrossx-stock 是一个免费开源的证券数据平台，满足供金融爱好者数据需求。（为个人服务器，财力有限，望大家善待服务 @@）
+- 提供行情历史数据、财务数据等
+- 提供API获取证券数据信息。
+
+## 欢迎各类技术炒股交流
+
+不限于 机器学习、量化投资策略 ^.^，，可加微信
+
+## 问题反馈
+
+请于 issues 中反馈
+
+## 联系方式
+
+  mail: 50014792@qq.com
+  
+  wechat: starseekerx
